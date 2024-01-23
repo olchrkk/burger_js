@@ -199,7 +199,7 @@ body {
     margin-top: 60px;
 }
 
-.products-item {
+.product-item {
     padding: 30px;
     background: #211A16;
     border-radius:  16px;
@@ -293,8 +293,8 @@ body {
 }
 
 .order-form-input {
-    width: 344px;
-    height: 62px;
+    width: 342px;
+    height: 60px;
     background: linear-gradient(95.61deg, #DA8023 0%, #E2B438 100%);
     border-radius: 8px;
     margin-bottom: 20px;
