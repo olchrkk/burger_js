@@ -20,7 +20,7 @@ let burger = document.getElementById("burger");
 let name = document.getElementById("name");
 let phone = document.getElementById("phone");
 
-document.getElementById("order-action").onclick = function name(e) {
+document.getElementById("order-action").onclick = function () {
     let hasError = false;
 
     [burger, name, phone].forEach(item => {
